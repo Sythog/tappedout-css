@@ -1,286 +1,334 @@
 /* Basic Custom Page */
 
-div.well {
-    background-color: rgba(0, 0, 0, 0.5);
+div.well
+{
+    background-color: rgba(0,0,0,0.5);
 }
 
-nav.navbar.navbar-inverse.navbar-fixed-top {
-    background-color: rgba(0, 0, 0, 0.4);
+nav.navbar.navbar-inverse.navbar-fixed-top
+{
+    background-color: rgba(0,0,0,0.4);
 }
 
-div.jumbotron {
-    background-color: rgba(0, 0, 0, 0.4);
+div.jumbotron
+{
+    background-color: rgba(0,0,0,0.4);
     background-size: cover;
 }
 
-nav.navbar.navbar-default {
-    background-color: rgba(0, 0, 0, 0.4);
+nav.navbar.navbar-default
+{
+    background-color: rgba(0,0,0,0.4);
 }
 
-a.btn.btn-default.btn-success.pull-right {
+a.btn.btn-default.btn-success.pull-right
+{
     color: rgb(70, 155, 74);
-    background-color: rgba(0, 0, 0, 0.5);
+    background-color: rgba(0,0,0,0.5);
 }
 
-a.pull-right.btn.btn-default.btn-xs {
+a.pull-right.btn.btn-default.btn-xs
+{
     color: rgb(192, 187, 187);
-    background-color: rgba(0, 0, 0, 0.5);
+    background-color: rgba(0,0,0,0.5);
 }
 
-a.badge.comment-page-id {
+a.badge.comment-page-id
+{
     color: rgb(188, 188, 188);
-    background-color: rgba(0, 0, 0, 0.5);
+    background-color: rgba(0,0,0,0.5);
 }
 
-input.submit.btn.btn-primary {
-    color: rgb(0, 141, 217);
-    border-color: rgb(0, 141, 217);
-    background-color: rgba(0, 0, 0, 0.5);
+input.submit.btn.btn-primary
+{
+    color: rgb(0,141,217);
+    border-color: rgb(0,141,217);
+    background-color: rgba(0,0,0,0.5);
 }
 
-input.submit.btn.btn-primary:hover {
-    color: rgb(255, 255, 255);
-    border-color: rgb(0, 141, 217);
-    background-color: rgba(0, 141, 217, 1.0);
+input.submit.btn.btn-primary:hover
+{
+    color: rgb(255,255,255);
+    border-color: rgb(0,141,217);
+    background-color: rgba(0,141,217,1.0);
 }
 
-span.btn.btn-default.pull-right {
-    color: rgb(0, 141, 217);
-    border-color: rgb(0, 141, 217);
-    background-color: rgba(0, 0, 0, 0.5);
+span.btn.btn-default.pull-right
+{
+    color: rgb(0,141,217);
+    border-color: rgb(0,141,217);
+    background-color: rgba(0,0,0,0.5);
 }
 
-span.btn.btn-default.pull-right:hover {
-    color: rgb(255, 255, 255);
-    border-color: rgb(0, 141, 217);
-    background-color: rgba(0, 141, 217, 1.0);
+span.btn.btn-default.pull-right:hover
+{
+    color: rgb(255,255,255);
+    border-color: rgb(0,141,217);
+    background-color: rgba(0,141,217,1.0);
 }
 
-span.btn.btn-default.pull-right:hover a {
-    color: rgb(255, 255, 255);
+span.btn.btn-default.pull-right:hover a
+{
+    color: rgb(255,255,255);
 }
 
-span.btn.btn-default.pull-right a:hover {
+span.btn.btn-default.pull-right a:hover
+{
     text-decoration: none;
-    color: rgb(255, 255, 255);
+    color: rgb(255,255,255);
 }
 
-ul.dropdown-menu {
+ul.dropdown-menu
+{
     color: #000000;
-    background-color: rgba(0, 0, 0, 0.5);
+    background-color: rgba(0,0,0,0.5);
 }
 
-div.modal-content {
-    background-color: rgba(0, 0, 0, 0.5);
+div.modal-content
+{
+    background-color: rgba(0,0,0,0.5);
 }
 
-div.row.deck-row-lg {
-    background-color: rgba(0, 0, 0, 0.2);
-    border: 1px solid rgb(80, 70, 54);
+div.row.deck-row-lg
+{
+    background-color: rgba(0,0,0,0.2);
+    border: 1px solid rgb(80,70,54);
     border-radius: 3px;
 }
 
-table {
+table
+{
     max-width: 100p%;
-    background-color: rgba(0, 0, 0, 0.5);
+    background-color: rgba(0,0,0,0.5);
 }
 
-.panel-group .panel {
-    background-color: rgba(0, 0, 0, 0.2);
+.panel-group .panel
+{
+    background-color: rgba(0,0,0,0.2);
 }
 
-#collapse-upd-1.panel-collapse.collapse.in {
-    background-color: rgba(0, 0, 0, 0.5);
+#collapse-upd-1.panel-collapse.collapse.in
+{
+    background-color: rgba(0,0,0,0.5);
 }
 
-.panel-heading a {
-    color: rgb(233, 210, 163);
+.panel-heading a
+{
+    color: rgb(233,210,163);
 }
 
-a.btn.btn-xs.btn-default {
+a.btn.btn-xs.btn-default
+{
     color: black;
 }
 
-a.btn.btn-danger.btn-xs.delete {
+a.btn.btn-danger.btn-xs.delete
+{
     color: white;
 }
 
-a.btn.btn-block.btn-danger.delete {
-    border-color: rgb(208, 59, 59);
-    color: rgb(208, 59, 59);
-    background-color: rgba(0, 0, 0, 0.3);
+a.btn.btn-block.btn-danger.delete
+{
+    border-color: rgb(208,59,59);
+    color: rgb(208,59,59);
+    background-color: rgba(0,0,0,0.3);
 }
 
-a.btn.btn-block.btn-danger.delete:hover {
-    border-color: rgb(208, 59, 59);
+a.btn.btn-block.btn-danger.delete:hover
+{
+    border-color: rgb(208,59,59);
     color: white;
-    background-color: rgba(208, 59, 59, 1.0);
+    background-color: rgba(208,59,59,1.0);
 }
 
-a.btn.btn-sm.btn-danger {
-    border-color: rgb(208, 59, 59);
-    color: rgb(208, 59, 59);
-    background-color: rgba(0, 0, 0, 0.3);
+a.btn.btn-sm.btn-danger
+{
+    border-color: rgb(208,59,59);
+    color: rgb(208,59,59);
+    background-color: rgba(0,0,0,0.3);
 }
 
-a.btn.btn-sm.btn-danger:hover {
-    border-color: rgb(208, 59, 59);
+a.btn.btn-sm.btn-danger:hover
+{
+    border-color: rgb(208,59,59);
     color: white;
-    background-color: rgba(208, 59, 59, 1.0);
+    background-color: rgba(208,59,59,1.0);
 }
 
-a.btn.btn-primary.btn-block.cycle-link {
-    border-color: rgb(0, 118, 211);
-    color: rgb(0, 118, 211);
-    background-color: rgba(0, 0, 0, 0.3);
+a.btn.btn-primary.btn-block.cycle-link
+{
+    border-color: rgb(0,118,211);
+    color: rgb(0,118,211);
+    background-color: rgba(0,0,0,0.3);
 }
 
-a.btn.btn-primary.btn-block.cycle-link:hover {
-    border-color: rgb(0, 118, 211);
+a.btn.btn-primary.btn-block.cycle-link:hover
+{
+    border-color: rgb(0,118,211);
     color: white;
-    background-color: rgba(0, 118, 211, 1.0);
+    background-color: rgba(0,118,211,1.0);
 }
 
-a.btn.btn-secondary.btn-primary {
-    border-color: rgb(0, 118, 211);
-    color: rgb(0, 118, 211);
-    background-color: rgba(0, 0, 0, 0.3);
+a.btn.btn-secondary.btn-primary
+{
+    border-color: rgb(0,118,211);
+    color: rgb(0,118,211);
+    background-color: rgba(0,0,0,0.3);
 }
 
-a.btn.btn-secondary.btn-primary:hover {
-    border-color: rgb(0, 118, 211);
+a.btn.btn-secondary.btn-primary:hover
+{
+    border-color: rgb(0,118,211);
     color: white;
-    background-color: rgba(0, 118, 211, 1.0);
+    background-color: rgba(0,118,211,1.0);
 }
 
-a.vote-link.btn.btn-success {
-    border-color: rgb(69, 161, 64);
-    color: rgb(69, 161, 64);
-    background-color: rgba(0, 0, 0, 0.3);
+a.vote-link.btn.btn-success
+{
+    border-color: rgb(69,161,64);
+    color: rgb(69,161,64);
+    background-color: rgba(0,0,0,0.3);
 }
 
-a.vote-link.btn.btn-success:hover {
-    border-color: rgb(69, 161, 64);
+a.vote-link.btn.btn-success:hover
+{
+    border-color: rgb(69,161,64);
     color: white;
-    background-color: rgba(69, 161, 64, 1.0);
+    background-color: rgba(69,161,64,1.0);
 }
 
-a.btn.btn-success.btn-block.feature.feature-link {
-    border-color: rgb(69, 161, 64);
-    color: rgb(69, 161, 64);
-    background-color: rgba(0, 0, 0, 0.3);
+a.btn.btn-success.btn-block.feature.feature-link
+{
+    border-color: rgb(69,161,64);
+    color: rgb(69,161,64);
+    background-color: rgba(0,0,0,0.3);
 }
 
-a.btn.btn-success.btn-block.feature.feature-link:hover {
-    border-color: rgb(69, 161, 64);
+a.btn.btn-success.btn-block.feature.feature-link:hover
+{
+    border-color: rgb(69,161,64);
     color: white;
-    background-color: rgba(69, 161, 64, 1.0);
+    background-color: rgba(69,161,64,1.0);
 }
 
-a.btn.btn-success.pull-right {
-    border-color: rgb(69, 161, 64);
-    color: rgb(69, 161, 64);
-    background-color: rgba(0, 0, 0, 0.3);
+a.btn.btn-success.pull-right
+{
+    border-color: rgb(69,161,64);
+    color: rgb(69,161,64);
+    background-color: rgba(0,0,0,0.3);
 }
 
-a.btn.btn-success.pull-right:hover {
-    border-color: rgb(69, 161, 64);
+a.btn.btn-success.pull-right:hover
+{
+    border-color: rgb(69,161,64);
     color: white;
-    background-color: rgba(69, 161, 64, 1.0);
+    background-color: rgba(69,161,64,1.0);
 }
 
-a.btn.btn-warning {
-    border-color: rgb(237, 159, 53);
-    color: rgb(237, 159, 53);
-    background-color: rgba(0, 0, 0, 0.3);
+a.btn.btn-warning
+{
+    border-color: rgb(237,159,53);
+    color: rgb(237,159,53);
+    background-color: rgba(0,0,0,0.3);
 }
 
-a.btn.btn-warning:hover {
-    border-color: rgb(237, 159, 53);
+a.btn.btn-warning:hover
+{
+    border-color: rgb(237,159,53);
     color: white;
-    background-color: rgba(237, 159, 53, 1.0);
+    background-color: rgba(237,159,53,1.0);
 }
 
-button.btn.btn-secondary.btn-warning {
-    border-color: rgb(237, 159, 53);
-    color: rgb(237, 159, 53);
-    background-color: rgba(0, 0, 0, 0.3);
+button.btn.btn-secondary.btn-warning
+{
+    border-color: rgb(237,159,53);
+    color: rgb(237,159,53);
+    background-color: rgba(0,0,0,0.3);
 }
 
-button.btn.btn-secondary.btn-warning:hover {
-    border-color: rgb(237, 159, 53);
+button.btn.btn-secondary.btn-warning:hover
+{
+    border-color: rgb(237,159,53);
     color: white;
-    background-color: rgba(237, 159, 53, 1.0);
+    background-color: rgba(237,159,53,1.0);
 }
 
-button.btn.btn-warning.btn-block {
-    border-color: rgb(237, 159, 53);
-    color: rgb(237, 159, 53);
-    background-color: rgba(0, 0, 0, 0.3);
+button.btn.btn-warning.btn-block
+{
+    border-color: rgb(237,159,53);
+    color: rgb(237,159,53);
+    background-color: rgba(0,0,0,0.3);
 }
 
-button.btn.btn-warning.btn-block:hover {
-    border-color: rgb(237, 159, 53);
+button.btn.btn-warning.btn-block:hover
+{
+    border-color: rgb(237,159,53);
     color: white;
-    background-color: rgba(237, 159, 53, 1.0);
+    background-color: rgba(237,159,53,1.0);
 }
 
-a.btn.btn-default {
+a.btn.btn-default
+{
     border-color: white;
     color: white;
-    background-color: rgba(0, 0, 0, 0.3);
+    background-color: rgba(0,0,0,0.3);
 }
 
-a.btn.btn-default:hover {
+a.btn.btn-default:hover
+{
     border-color: white;
-    color: rgb(38, 38, 38);
+    color: rgb(38,38,38);
     background-color: white;
 }
 
-btn.btn.btn-secondary.btn-default {
+btn.btn.btn-secondary.btn-default
+{
     border-color: white;
     color: white;
-    background-color: rgba(0, 0, 0, 0.3);
+    background-color: rgba(0,0,0,0.3);
 }
 
-btn.btn.btn-secondary.btn-default:hover {
+btn.btn.btn-secondary.btn-default:hover
+{
     border-color: white;
-    color: rgb(38, 38, 38);
+    color: rgb(38,38,38);
     background-color: white;
 }
 
-a.btn.btn-xs.btn-default {
+a.btn.btn-xs.btn-default
+{
     border-color: white;
-    color: rgb(38, 38, 38);
+    color: rgb(38,38,38);
     background-color: white;
 }
 
-a.btn.btn-xs.btn-default:hover {
-    border-color: rgb(225, 225, 225);
-    color: rgb(38, 38, 38);
-    background-color: rgb(225, 225, 225);
+a.btn.btn-xs.btn-default:hover
+{
+    border-color: rgb(225,225,225);
+    color: rgb(38,38,38);
+    background-color: rgb(225,225,225);
 }
 
-a.btn.btn-xs.btn-default.pull-right {
+a.btn.btn-xs.btn-default.pull-right
+{
     border-color: white;
-    color: rgb(38, 38, 38);
+    color: rgb(38,38,38);
     background-color: white;
 }
 
-a.btn.btn-xs.btn-default.pull-right:hover {
-    border-color: rgb(225, 225, 225);
-    color: rgb(38, 38, 38);
-    background-color: rgb(225, 225, 225);
+a.btn.btn-xs.btn-default.pull-right:hover
+{
+    border-color: rgb(225,225,225);
+    color: rgb(38,38,38);
+    background-color: rgb(225,225,225);
 }
 
-.col-sm-9 {
+.col-sm-9
+{
     width: 73%;
 }
 
-.col-sm-3 {
+.col-sm-3
+{
     width: 27%;
-}
-
-div.add-embed-responsive p {
-    font-size: large;
 }
