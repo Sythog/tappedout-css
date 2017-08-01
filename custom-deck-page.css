@@ -4,7 +4,7 @@ div.well
 {
     background-color: rgba(0,0,0,0.5);
 }
-/*
+
 nav.navbar.navbar-inverse.navbar-fixed-top
 {
     background-color: rgba(0,0,0,0.4);
@@ -88,14 +88,14 @@ div.modal-content
 {
     background-color: rgba(0,0,0,0.5);
 }
-*/
+
 div.row.deck-row-lg
 {
     background-color: rgba(0,0,0,0.2);
     border: 1px solid rgb(80,70,54);
     border-radius: 3px;
 }
-/*
+
 table
 {
     max-width: 100p%;
@@ -332,4 +332,4 @@ a.btn.btn-xs.btn-default.pull-right:hover
 {
     width: 27%;
 }
-*/
+
